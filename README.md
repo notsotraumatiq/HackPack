@@ -1,4 +1,4 @@
-# Scripts Wizz
+# HackPack
 
 A place where I put my essential scripts
 
